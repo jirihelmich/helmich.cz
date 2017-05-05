@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dump>
+  <year>2017</year>
+	<month>1</month>
+	<day>1</day>
+	<timeOfGeneration>2017-02-17T00:17:45+01:00</timeOfGeneration>
+  <invoices>
+    <invoice id="i1">
+      <contractId>c1</contractId>
+      <invoiceItem>
+        <name>Čistící prostředky</name>
+        <quantity>28</quantity>
+        <price>456</price>
+        <priceSum>12768</priceSum>
+      </invoiceItem>
+    </invoice>   
+    <invoice id="i2">
+      <contractId>c2</contractId>
+      <invoiceItem>
+        <name>Pronájem prostoru</name>
+        <quantity>1</quantity>
+        <price>35000</price>
+        <priceSum>35000</priceSum>
+      </invoiceItem>
+    </invoice>  
+    <invoice id="i3">
+      <contractId>c2</contractId>
+      <invoiceItem>
+        <name>Catering</name>
+        <quantity>15</quantity>
+        <price>1500</price>
+        <priceSum>22500</priceSum>
+      </invoiceItem>
+    </invoice>  
+    <invoice id="i4">
+      <contractId>c3</contractId>
+      <invoiceItem>
+        <name>Lektoři</name>
+        <quantity>12</quantity>
+        <price>20000</price>
+        <priceSum>240000</priceSum>
+      </invoiceItem>
+    </invoice>  
+    <invoice id="i5">
+      <contractId>c3</contractId>
+      <invoiceItem>
+        <name>Kampaň pro potenciální zaměstance</name>
+        <quantity>1</quantity>
+        <price>150000</price>
+        <priceSum>150000</priceSum>
+      </invoiceItem>
+    </invoice>  
+    <invoice id="i6">
+      <contractId>c3</contractId>
+      <invoiceItem>
+        <name>Materiály, podklady</name>
+        <quantity>56</quantity>
+        <price>500</price>
+        <priceSum>28000</priceSum>
+      </invoiceItem>
+    </invoice>      
+  </invoices>
+</dump>
